@@ -1,5 +1,6 @@
 <?php
-
+require_once '../Core/Database.php';
+require_once '../Models/Societe.php';
  class SocieteController{
     private Societe $modeleSociete;
     

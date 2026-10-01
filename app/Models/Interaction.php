@@ -1,7 +1,6 @@
 <?php
 
-require_once '../Core/Database.php';
-
+require_once __DIR__ . '/../Core/Database.php';
 
 class Interaction{
     private PDO $db;

@@ -1,0 +1,19 @@
+/* societe tableau menu principal */
+.page-societe-index .societe_cards{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+}
+.page-societe-index .card{
+    max-width:100% ;
+    padding: 1.3rem;
+    flex-direction: column;
+}
+.page-societe-index .card>h2{
+    color: azure;
+    font-size: 18px;
+}
+.page-societe-index h3{
+    font-size: 24px;
+}

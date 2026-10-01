@@ -1,0 +1,9 @@
+{
+  "name": "mini-crm-sales-tracker",
+  "version": "1.0.0",
+  "main": "proo.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node proo.js"
+  }
+}

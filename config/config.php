@@ -2,5 +2,5 @@
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
 define('DB_NAME', 'mini_crm');
-define('DB_PASSWORD', '')
+define('DB_PASSWORD', 'boubass');
 ?>
